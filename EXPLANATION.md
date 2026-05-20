@@ -14,7 +14,7 @@ Everything runs locally — no internet required. The models are trained once, s
 disk, and then loaded by the GUI for fast inference.
 
 ---
-
+Dataset Link: https://www.kaggle.com/datasets/karimipavan/smart-crop-recommendation
 ## Project Structure
 
 ```
